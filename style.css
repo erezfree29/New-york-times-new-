@@ -110,3 +110,27 @@ nav {
   font-size: 0.85rem;
   color: #8c6679;
 }
+
+.picture {
+  position: relative;
+}
+
+.theory {
+  width: 145%;
+  margin-top: 25px;
+}
+
+.universe {
+  font-size: 10px;
+  width: 32%;
+  position: absolute;
+  top: 206px;
+}
+
+.cosmos {
+  font-size: 10px;
+  width: 32%;
+  position: absolute;
+  top: 206px;
+  left: 180px;
+}
