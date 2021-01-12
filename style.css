@@ -82,12 +82,11 @@ nav {
 
 .article {
   margin-top: 40px;
-  width: 900px;
 }
 
 .wording {
   padding-left: 500px;
-  width: 1000px;
+  width: 60%;
 }
 
 .break::after {
@@ -113,7 +112,7 @@ nav {
 }
 
 .theory {
-  width: 145%;
+  width: 140%;
   margin-top: 25px;
 }
 
@@ -121,14 +120,14 @@ nav {
   font-size: 10px;
   width: 33%;
   position: absolute;
-  top: 209px;
+  top: 225px;
 }
 
 .cosmos {
   font-size: 10px;
   width: 33%;
   position: absolute;
-  top: 209px;
+  top: 225px;
   left: 180px;
 }
 
@@ -136,7 +135,7 @@ nav {
   font-size: 10px;
   width: 33%;
   position: absolute;
-  top: 209px;
+  top: 225px;
   left: 360px;
 }
 
@@ -144,8 +143,8 @@ nav {
   font-size: 10px;
   width: 33%;
   position: absolute;
-  top: 209px;
-  left: 540px;
+  top: 225px;
+  left: 560px;
 }
 
 .time {
