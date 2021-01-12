@@ -234,10 +234,9 @@ iframe {
 }
 
 aside {
+  margin-top: -6850px;
   float: right;
   width: 450px;
-  margin-top: -6799px;
-  margin-right: 155px;
 }
 
 .pick {
