@@ -2,7 +2,6 @@ nav {
   display: flex;
   height: 10vh;
   align-items: center;
-  justify-content: space-between;
   position: fixed;
   top: 0;
   border-top: 0.5px solid gray;
@@ -120,14 +119,14 @@ nav {
   font-size: 10px;
   width: 33%;
   position: absolute;
-  top: 225px;
+  top: 209px;
 }
 
 .cosmos {
   font-size: 10px;
   width: 33%;
   position: absolute;
-  top: 225px;
+  top: 209px;
   left: 180px;
 }
 
@@ -135,7 +134,7 @@ nav {
   font-size: 10px;
   width: 33%;
   position: absolute;
-  top: 225px;
+  top: 209px;
   left: 360px;
 }
 
@@ -143,8 +142,8 @@ nav {
   font-size: 10px;
   width: 33%;
   position: absolute;
-  top: 225px;
-  left: 560px;
+  top: 209px;
+  left: 540px;
 }
 
 .time {
