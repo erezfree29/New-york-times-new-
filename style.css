@@ -260,9 +260,3 @@ aside {
   display: flex;
   justify-content: space-between;
 }
-
-body {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
