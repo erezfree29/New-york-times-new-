@@ -232,3 +232,33 @@ iframe {
   background-color: #567b95;
   width: 200px;
 }
+
+aside {
+  float: right;
+  width: 450px;
+  margin-top: -6799px;
+  margin-right: 155px;
+}
+
+.pick {
+  display: flex;
+  margin-right: 15rem;
+  font-size: 13px;
+  align-items: center;
+  margin-bottom: 3.5px;
+}
+
+.pick_image {
+  width: 70px;
+  margin-right: 3px;
+}
+
+.about {
+  width: 200px;
+  color: black;
+}
+
+.comments {
+  display: flex;
+  justify-content: space-between;
+}
