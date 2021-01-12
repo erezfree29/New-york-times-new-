@@ -87,12 +87,8 @@ nav {
 
 .article {
   margin-top: 40px;
-  width: 900px;
-}
-
-.wording {
-  padding-left: 500px;
-  width: 1000px;
+  width: 50%;
+  margin-left: 400px;
 }
 
 .break::after {
@@ -118,70 +114,70 @@ nav {
 }
 
 .theory {
-  width: 145%;
+  width: 105%;
   margin-top: 25px;
 }
 
 .universe {
-  font-size: 10px;
-  width: 33%;
+  font-size: 9px;
+  width: 21%;
   position: absolute;
-  top: 209px;
+  top: 210px;
 }
 
 .cosmos {
-  font-size: 10px;
-  width: 33%;
+  font-size: 9px;
+  width: 21%;
   position: absolute;
-  top: 209px;
-  left: 180px;
+  top: 210px;
+  left: 230px;
 }
 
 .telescope {
-  font-size: 10px;
-  width: 33%;
+  font-size: 9px;
+  width: 21%;
   position: absolute;
-  top: 209px;
-  left: 360px;
+  top: 210px;
+  left: 440px;
 }
 
 .coffee {
-  font-size: 10px;
-  width: 33%;
+  font-size: 9px;
+  width: 21%;
   position: absolute;
-  top: 209px;
-  left: 540px;
+  top: 210px;
+  left: 700px;
 }
 
 .time {
-  font-size: 10px;
-  width: 33%;
+  font-size: 9px;
+  width: 21%;
   position: absolute;
-  top: 445px;
+  top: 490px;
 }
 
 .problem {
-  font-size: 10px;
-  width: 33%;
+  font-size: 9px;
+  width: 21%;
   position: absolute;
   left: 180px;
-  top: 445px;
+  top: 490px;
 }
 
 .flactuation {
-  font-size: 10px;
-  width: 33%;
+  font-size: 9px;
+  width: 21%;
   position: absolute;
-  left: 360px;
-  top: 445px;
+  left: 460px;
+  top: 490px;
 }
 
 .expansion {
-  font-size: 10px;
-  width: 33%;
+  font-size: 9px;
+  width: 21%;
   position: absolute;
-  left: 540px;
-  top: 445px;
+  left: 660px;
+  top: 490px;
 }
 
 .first_line {
@@ -237,10 +233,9 @@ iframe {
 }
 
 aside {
+  margin-top: -5593px;
   float: right;
   width: 450px;
-  margin-top: -6799px;
-  margin-right: 155px;
 }
 
 .pick {
