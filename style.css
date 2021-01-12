@@ -25,7 +25,7 @@ nav {
 }
 
 .logo_img {
-  padding-right: 200px;
+  padding-right: 300px;
   height: 8vh;
 }
 
@@ -261,4 +261,10 @@ aside {
 .comments {
   display: flex;
   justify-content: space-between;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
