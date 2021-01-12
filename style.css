@@ -7,6 +7,7 @@ nav {
   border-top: 0.5px solid gray;
   border-bottom: 0.5px solid gray;
   width: 100%;
+  background-color: hotpink;
 }
 
 .logo {
@@ -37,7 +38,7 @@ nav {
 .header {
   display: flex;
   justify-content: center;
-  margin-top: 100px;
+  margin-top: 150px;
 }
 
 .gun {
